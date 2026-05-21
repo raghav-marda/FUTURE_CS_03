@@ -164,5 +164,8 @@ The task significantly improved understanding of:
 
 # 👨‍💻 Author
 
-**Raghav Marda**
-Cyber Security Internship – Future Interns
+## Raghav Marda
+
+Cyber Security Intern — Future Interns
+
+---
